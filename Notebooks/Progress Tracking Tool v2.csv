@@ -1,0 +1,16 @@
+Workstream,Resource Assignment,Task ID,Task,Planned start date,Planned Duration,Planned End Date,Progress,Actual Start Date,Task % Completion,Actual Completion Date
+"Graduate Recruitment",,"1.2","1st Stage Interview","3/8/2023","5","3/13/2023","In Progress","3/11/2023","50%",
+"Graduate Recruitment",,"1.3","2nd Stage Interview","3/13/2023","4","3/17/2023","Not Started",,,
+"Graduate Recruitment",,"1.4","Issue Offers","3/17/2023","8","3/25/2023","Not Started",,,
+"Graduate Recruitment",,"1.5","Onboard","3/25/2023","6","3/31/2023","Not Started",,,
+"Experienced Recruitment",,"2.1","CV Screening","2/27/2023","5","3/4/2023","Completed","2/28/2023","100%","3/3/2023"
+"Experienced Recruitment",,"2.2","1st Stage Interview","3/4/2023","10","3/14/2023","In Progress",,,
+"Experienced Recruitment",,"2.3","2nd Stage Interview","3/14/2023","0","3/14/2023","Not Started",,,
+"Experienced Recruitment",,"2.4","Issue Offers","3/14/2023","8","3/22/2023","Not Started",,,
+"Experienced Recruitment",,"2.5","Onboard","3/22/2023","10","4/1/2023","Not Started",,,
+"C-Suite Recruitment",,"3.1","CV Screening","2/27/2023","3","3/2/2023","In Progress","3/5/2023","25%",
+"C-Suite Recruitment",,"3.2","1st Stage Interview","3/2/2023","2","3/4/2023","Not Started",,,
+"C-Suite Recruitment",,"3.3","2nd Stage Interview","3/4/2023","10","3/14/2023","Not Started",,,
+"C-Suite Recruitment",,"3.4","Issue Offers","3/14/2023","8","3/22/2023","Not Started",,,
+"C-Suite Recruitment",,"3.5","Onboard","3/22/2023","3","3/25/2023","Not Started",,,
+"Graduate Recruitment","Zachary Jones","1.1","CV Screening","2/27/2023","9","3/8/2023","Completed","2/27/2023","100%","3/10/2023"
